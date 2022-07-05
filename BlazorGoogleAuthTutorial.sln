@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogleAuthTutorial.Server", "BlazorGoogleAuthTutorial\Server\BlazorGoogleAuthTutorial.Server.csproj", "{46B021E0-1EAF-47A9-80AD-625B4D4E64E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogleAuthTutorial.Client", "BlazorGoogleAuthTutorial\Client\BlazorGoogleAuthTutorial.Client.csproj", "{3A801D2C-F6DE-44E1-88F6-9A13D10C26E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorGoogleAuthTutorial.Shared", "BlazorGoogleAuthTutorial\Shared\BlazorGoogleAuthTutorial.Shared.csproj", "{2E1E43B1-C96D-4152-B720-BBFA23B702A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46B021E0-1EAF-47A9-80AD-625B4D4E64E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46B021E0-1EAF-47A9-80AD-625B4D4E64E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46B021E0-1EAF-47A9-80AD-625B4D4E64E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46B021E0-1EAF-47A9-80AD-625B4D4E64E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A801D2C-F6DE-44E1-88F6-9A13D10C26E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A801D2C-F6DE-44E1-88F6-9A13D10C26E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A801D2C-F6DE-44E1-88F6-9A13D10C26E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A801D2C-F6DE-44E1-88F6-9A13D10C26E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E1E43B1-C96D-4152-B720-BBFA23B702A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1E43B1-C96D-4152-B720-BBFA23B702A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1E43B1-C96D-4152-B720-BBFA23B702A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1E43B1-C96D-4152-B720-BBFA23B702A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03177D45-041C-423B-8270-94EAE3C739D3}
+	EndGlobalSection
+EndGlobal
